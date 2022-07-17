@@ -1,3 +1,3 @@
 # Demo
 
-I have no clue what im doing ut this seems magical.
+I have no clue what im doing but this seems magical.
